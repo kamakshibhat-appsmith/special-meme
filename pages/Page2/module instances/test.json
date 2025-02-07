@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67a5d94ba9db86506e808e8b_e2276d3c-5909-4339-981e-4dd1b2bff003",
+  "id": "Page2_test",
+  "moduleUUID": "b7f80a74-016b-47f6-bb45-33bb85ae4100",
+  "packageUUID": "26abf29a-0de6-4c77-87e2-c20c0f65ed10",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "tomuchiqbc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "tomuchiqbc",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "wwisxqabnx": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "wwisxqabnx",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
+    },
+    "name": "test",
+    "pageId": "Page2"
+  }
+}
