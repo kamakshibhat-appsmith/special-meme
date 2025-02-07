@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67a5d94ba9db86506e808e8b_fa5035cf-3a99-484a-a553-5cc233db188e",
-  "id": "Page2__$QMtest$_QM",
+  "gitSyncId": "67a5da2ea9db86506e808eeb_5b6b2eba-2779-4a71-bfb1-1f9fb766e7e6",
+  "id": "Page2__$QMtest$_QueryModule1",
   "isPublic": true,
   "moduleInstanceId": "Page2_QMtest",
   "pluginId": "restapi-plugin",
@@ -14,7 +14,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin"
     },
-    "name": "_$QMtest$_QM",
+    "name": "_$QMtest$_QueryModule1",
     "pageId": "Page2",
     "userSetOnLoad": false
   }
